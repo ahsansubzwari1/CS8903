@@ -1,7 +1,5 @@
 # Meeting Recap — July 1, 2026
 
-**Project:** HAAG Compute & Storage Guide
-**Author:** Ahsan Subzwari
 
 ## What I worked on this past week
 - Coordinated with Sean Kahn on using the VRAM calculator for his own research
