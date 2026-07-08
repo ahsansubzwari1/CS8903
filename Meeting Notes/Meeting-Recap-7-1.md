@@ -7,13 +7,12 @@
 - Charlie also met separately with both Bilal and Pranav this week
 
 ## Plan of action
-- Build out video training content, per Bree's request
-- Use the PACE onboarding training as the proof of concept for this format
-- Categorize existing resources by owner type — e.g. PACE-student/HAAG-authored vs. official internal documentation — as the organizing structure for what gets turned into video
-- Adopt the same template Bilal and Pranav are using with the Scribe tool for their own trainings, for consistency across HAAG
+- Build out video training content, like Bree requested. Will be doing this on the PACE On-boading document first
+- Using the PACE onboarding training as the proof of concept (original Charlie created and I re-vamped)
+- In PACE-HAAG-Resource-Index.xlsx categorize existing resources by owner type (PACE-student/HAAG-authored/official internal HAAG documentation) and continue Bilal & Pranav's training content format? (Get input from Charlie and Bree regarding this (Reach out to Justin and Sean again??)
 - Target one or two of the more solidified pieces of documentation first for a small training series, rather than starting broad
 
 ## Next steps
 - Pick the first 1–2 documentation pieces to convert into video format
 - Set up the Scribe template to match Bilal and Pranav's approach
-- Continue advisor outreach and the Sean Kahn collaboration in parallel
+- Continue advisor outreach and the Sean Kahn collaboration in parallel (need to be better about this) 
