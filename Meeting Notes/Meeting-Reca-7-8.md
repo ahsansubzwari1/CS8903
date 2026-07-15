@@ -1,4 +1,4 @@
-# Meeting Notes — July 1, 2026 
+# Meeting Notes — July 8
 
 
 ## Feedback received
