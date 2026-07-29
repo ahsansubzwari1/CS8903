@@ -19,6 +19,9 @@ Strong progress across Modules 1, 2, and 3 this week. Module 3 is fully complete
 
 ## New this week
 - Planning a formalized training document that walks through the full series end to end — a single guided path across all four modules, rather than requiring people to find their own way module by module
+- IRB and Survey questions being created
+- Check with Bri to see how to go about this. An IRB survey is overkill and don't need to collect any sensitive student information, just meta data about the jobs they submit (this can be done by retroactively finding job details potentially)
+- Training being drafted by me
 
 ## Note on this update
 Checked the live repo before writing this — 103–105 (Module 1) and 205–206 (Module 2) don't show up yet. Flagging in case that work exists somewhere not yet pushed, so this can be corrected before going further.
