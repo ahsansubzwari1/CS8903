@@ -42,6 +42,6 @@
 
 ## Notes on use
 
-- This is designed to be filled out directly by each project/team, not run as a live interview — the questions ask for numbers and technical specifics rather than opinions, so a form or written response is a more natural fit than a conversation.
-- Worth checking with Neelima Pandey before distributing this broadly — her Computational Resources Requirements Estimation Process initiative covers adjacent ground (semester-level team resource demand), and there may be room to combine efforts rather than run two separate surveys.
-- Aggregated across teams, this becomes the same kind of pattern data the original questionnaire was after (which research domains use the most GPU-hours, which store the most data) — just grounded in actual numbers instead of self-reported sentiment.
+- This is designed to be filled out directly by each project/team, not run as a live interview — the questions ask for numbers and technical specifics rather than opinions
+- Worth checking with Neelima Pandey before distributing this broadly — her Computational Resources Requirements Estimation Process initiative covers similar questions 
+- Aggregated across teams, this becomes the same kind of pattern data 
